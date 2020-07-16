@@ -27,7 +27,9 @@ const tori = {
 <sup>
 I am a semicolonless JavaScript lover who is passionate about user experience.
 
-[View another 50+ repositories of my software engineering coursework here.](https://github.com/t0ri-make-school-coursework)
+<br />
 
-📌 Check out my pinned repositories below.
+[View another 50+ repositories of my project-based college coursework here.](https://github.com/t0ri-make-school-coursework)
+
+📌 Check out my pinned projects below.
 </sup>
