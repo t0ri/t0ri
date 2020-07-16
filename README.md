@@ -1,7 +1,7 @@
 ## [Tori Murray](https://tori.dev) :woman_technologist: :sparkles:
 [![LinkedIn Badge](https://img.shields.io/badge/-/in/t0ri-0077b5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/t0ri)](https://www.linkedin.com/in/t0ri)
 [![Email Badge](https://img.shields.io/badge/-Email%20Me-ca362e?style=flat-square&logo=Gmail&logoColor=white&link=mailto:victoriarosemurray@gmail.com)](mailto:victoriarosemurray@gmail.com)
-[![Twitter Badge](https://img.shields.io/badge/-@t0ri-1DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/myomachy)](https://www.twitter.com/myomachy)
+[![Twitter Badge](https://img.shields.io/badge/-@toridotdev-1DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/myomachy)](https://www.twitter.com/myomachy)
 [![Medium Badge](https://img.shields.io/badge/-@t0ri-000?style=flat-square&logo=Medium&logoColor=white&link=https://www.medium.com/@t0ri)](https://www.medium.com/@t0ri)
 ![pronouns](https://img.shields.io/badge/pronouns-she%2Fher-%239abafa?style=flat-square)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=t0ri.t0ri)
