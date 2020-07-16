@@ -6,6 +6,8 @@
 ![pronouns](https://img.shields.io/badge/pronouns-she%2Fher-%239abafa?style=flat-square)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=t0ri.t0ri)
 
+🌟 **I am looking for my first job!** 🌟
+
 ``` javascript
 const tori = {
   languages: [Javascript, HTML, CSS, Python],
@@ -22,4 +24,10 @@ const tori = {
 }
 ```
 
-[Check out my other 50+ repos of software engineering coursework here.](https://github.com/t0ri-make-school-coursework)
+<sup>
+I am a semicolonless JavaScript lover who is passionate about user experience.
+
+[View another 50+ repositories of my software engineering coursework here.](https://github.com/t0ri-make-school-coursework)
+
+📌 Check out my pinned repositories below.
+</sup>
