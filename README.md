@@ -6,10 +6,12 @@
 ![pronouns](https://img.shields.io/badge/pronouns-she%2Fher-%239abafa?style=flat-square)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=t0ri.t0ri)
 
-🌟 **I am looking for my first job!** 🌟
+🌟 **I am looking for my first software engineering job!** 🌟
+<sup>[Let's connect.](mailto:victoriarosemurray@gmail.com)</sup>
 
 ``` javascript
 const tori = {
+  location: 'San Francisco',
   languages: ['Javascript', 'HTML', 'CSS', 'Python'],
   tools: {
     code: ['React', 'Sass/SCSS', 'Node', 'Express', 'Django'],
@@ -24,9 +26,9 @@ const tori = {
 }
 ```
 
-<sup>I am a semicolonless JavaScript lover who is passionate about user experience.</sup>
+<sup>I am a (semicolonless) JavaScript lover who is passionate about user experience.</sup>
 
-<sup>I'm currently an intern through [@CodeDay](https://labs.codeday.org/), collaborating remotely with a team to [build an open-source MERN stack application](https://github.com/codelab-internship-word-tracking-team/word-tracking-app).</sup>
+<sup>I'm currently an intern through [CodeDay](https://labs.codeday.org/), collaborating remotely with a team to [build an open-source MERN stack application](https://github.com/codelab-internship-word-tracking-team/word-tracking-app).</sup>
 
 <sup>[View another 50+ repositories of my project-based college coursework here.](https://github.com/t0ri-make-school-coursework) 📚</sup>
 
