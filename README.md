@@ -20,7 +20,7 @@ const tori = {
   industryExperience: 'CodeLabs Intern', // 👀 💼 looking for something new!
   education: {
     degree: 'BS in Applied Computer Science',
-    school: 'Make School at Dominican University',
+    school: 'Make School at Dominican University of California',
     year: 2020,
   },
 }
