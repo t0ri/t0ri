@@ -10,10 +10,10 @@
 
 ``` javascript
 const tori = {
-  languages: [Javascript, HTML, CSS, Python],
+  languages: ['Javascript', 'HTML', 'CSS', 'Python'],
   tools: {
-    code: [React, 'Sass/SCSS', Node, Express, Django],
-    design: [Figma, 'InVision Studio', 'Adobe XD', Photoshop, Illustrator],
+    code: ['React', 'Sass/SCSS', 'Node', 'Express', 'Django'],
+    design: ['Figma', 'InVision Studio', 'Adobe XD', 'Photoshop', 'Illustrator'],
   },
   industryExperience: 'CodeLabs Intern', // 👀 💼 looking for something new!
   education: {
