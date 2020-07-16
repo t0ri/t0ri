@@ -7,7 +7,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=t0ri.t0ri)
 
 🌟 **I am looking for my first software engineering job!** 🌟
-<sub>[Let's connect.](mailto:victoriarosemurray@gmail.com)</sub>
+<sub>[Let's connect.](https://www.linkedin.com/in/t0ri)</sub>
 
 ``` javascript
 const tori = {
