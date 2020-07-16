@@ -24,12 +24,8 @@ const tori = {
 }
 ```
 
-<sup>
-I am a semicolonless JavaScript lover who is passionate about user experience.
+<sup>I am a semicolonless JavaScript lover who is passionate about user experience.</sup>
 
-<br />
+<sup>[View another 50+ repositories of my project-based college coursework here.](https://github.com/t0ri-make-school-coursework) 📚</sup>
 
-[View another 50+ repositories of my project-based college coursework here.](https://github.com/t0ri-make-school-coursework) 📚
-
-📌 Check out my pinned projects below!
-</sup>
+<sup>📌 Check out my pinned projects below!</sup>
