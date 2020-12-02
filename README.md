@@ -17,7 +17,11 @@ const tori = {
     code: ['React', 'Sass/SCSS', 'Node', 'Express', 'Django'],
     design: ['Figma', 'InVision Studio', 'Adobe XD', 'Photoshop', 'Illustrator'],
   },
-  industryExperience: 'CodeLabs Intern', // 👀 💼 looking for something new!
+  industryExperience: [{
+    title: 'CodeLabs Intern at Wordsome',
+    startDate: new Date('July 2020'),
+    endDate: new Date('October 2020'),
+  }], // searching for my next position  👀
   education: {
     degree: 'BS in Applied Computer Science',
     school: 'Make School at Dominican University of California',
