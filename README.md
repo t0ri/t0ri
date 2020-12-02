@@ -28,7 +28,7 @@ const tori = {
 
 I am a (semicolonless) JavaScript lover who is passionate about user experience.
 
-I'm currently an intern through [CodeDay](https://labs.codeday.org/), collaborating remotely with a team to [build an open-source MERN stack application](https://github.com/codelab-internship-word-tracking-team/word-tracking-app).
+Recently, I was an intern through [CodeDay](https://labs.codeday.org/), collaborating remotely with a team to [build an open-source MERN stack application](https://github.com/codelab-internship-word-tracking-team/word-tracking-app).
 
 [View another 50+ repositories of my project-based college coursework here.](https://github.com/t0ri-make-school-coursework) 📚
 
