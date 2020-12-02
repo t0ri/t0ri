@@ -25,7 +25,7 @@ const tori = {
   education: {
     degree: 'BS in Applied Computer Science',
     school: 'Make School at Dominican University of California',
-    year: 2020,
+    graduationDate: new Date('December 2020'),
   },
 }
 ```
